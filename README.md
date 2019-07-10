@@ -42,4 +42,4 @@ Of course, after using these over and over again, you'll begin to know them with
 
 
 ## EXTENSION
-Return to your recipe webpage and start styling!
+Return to your Dream Vacation webpage and start styling!
